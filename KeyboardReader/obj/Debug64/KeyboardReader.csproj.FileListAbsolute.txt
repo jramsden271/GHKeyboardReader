@@ -1,0 +1,9 @@
+c:\users\jramsden\documents\visual studio 2013\Projects\KeyboardReader\KeyboardReader\bin\KeyboardReader.dll
+c:\users\jramsden\documents\visual studio 2013\Projects\KeyboardReader\KeyboardReader\bin\KeyboardReader.pdb
+c:\users\jramsden\documents\visual studio 2013\Projects\KeyboardReader\KeyboardReader\obj\Debug64\KeyboardReader.Properties.Resources.resources
+c:\users\jramsden\documents\visual studio 2013\Projects\KeyboardReader\KeyboardReader\obj\Debug64\KeyboardReader.csproj.GenerateResource.Cache
+c:\users\jramsden\documents\visual studio 2013\Projects\KeyboardReader\KeyboardReader\obj\Debug64\KeyboardReader.dll
+c:\users\jramsden\documents\visual studio 2013\Projects\KeyboardReader\KeyboardReader\obj\Debug64\KeyboardReader.pdb
+c:\users\jramsden\documents\visual studio 2013\Projects\KeyboardReader\KeyboardReader\obj\Debug64\KeyboardReader.csprojResolveAssemblyReference.cache
+c:\users\jramsden\documents\visual studio 2013\Projects\KeyboardReader\KeyboardReader\bin\KeyboardReader.dll.CodeAnalysisLog.xml
+c:\users\jramsden\documents\visual studio 2013\Projects\KeyboardReader\KeyboardReader\bin\KeyboardReader.dll.lastcodeanalysissucceeded
